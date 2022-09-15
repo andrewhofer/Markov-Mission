@@ -21,6 +21,6 @@ The next steps for me are making the generated paintings look more like the orig
 
 I do believe this system is creative. First and foremost, it is inspired by two of the best painters of all time who broke many barriers in their respective fields. I see the reconstruction of pixels based on their original paintings as putting a creative twist on an already creative object (the paintings). Additionally, no two of my Markov generated paintings will ever be the same. Each one is undoubtedly unique, yet (strives to) simulate the brilliant creative minds of de Kooning and Malevich.
 
-Sources:/
-For the inspiration for working with images: https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911/
+Sources:\
+For the inspiration for working with images: https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911\
 For gaining familiarity with the Python Imaging Library: https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911
