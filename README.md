@@ -23,4 +23,4 @@ I do believe this system is creative. First and foremost, it is inspired by two 
 
 Sources:\
 For the inspiration for working with images: https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911 \
-For gaining familiarity with the Python Imaging Library: https://magenta.as/using-machine-learning-to-make-art-84df7d3bb911
+For gaining familiarity with the Python Imaging Library: https://ehmatthes.github.io/pcc_2e/beyond_pcc/pillow/#copying-all-pixels-to-the-new-image
